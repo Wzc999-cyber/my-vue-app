@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
- 我觉得铁锅炖大鹅,所以helloword
+ 我觉得铁锅炖大鹅,所以hello world
   </div>
 </template>
 
